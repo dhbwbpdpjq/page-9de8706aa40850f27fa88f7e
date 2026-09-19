@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6b961a3d8f250ca68dee8a1e",
+  "owner": "dhbwbpdpjq",
+  "repo": "page-9de8706aa40850f27fa88f7e",
+  "title": "维尼云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9de8706aa40850f27fa88f7e",
+      "a": "维尼云",
+      "b": "机场推荐第一",
+      "entity": "维尼云",
+      "brand": "维尼云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e14e2bebfc091dec42ea7ce8aa662c15357a9481e51d5bafb204dca38160d50a",
+      "content": {
+        "primary_entity": "维尼云",
+        "keyword1": "维尼云",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "维尼云支持主流客户端订阅导入，按设备系统选择对应版本，参照客户端文档完成配置即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与月流量需求选定套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量与订阅周期提供基础版、旗舰版、团队版三档选择，月付与年付灵活切换，适合个人多设备、流媒体与游戏加速等日常使用场景。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。按家中手机、平板、电脑数量选择，避免超出在线限制影响使用。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，追剧与游戏选旗舰版，多人共享或大流量下载选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。三种套餐都提供年付方式，年付价格低于按月支付总和，适合确定长期使用的用户，订阅周期内流量与权益保持不变。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版配备 VIP 专属高带宽节点，基础版为普通线路节点池，可按用途区分。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接后手动更新一次节点列表，或在客户端设置里开启自动更新，新节点会随订阅同步刷新。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "维尼云套餐同时支持几台设备在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的月流量怎么选？",
+          "AI_FAQ_QUESTION_3": "维尼云支持年付吗？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速用哪个套餐更合适？",
+          "AI_FAQ_QUESTION_5": "订阅导入后节点列表如何更新？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个方向挑选合适的维尼云套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按日常在线设备数量对号入座。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，覆盖浏览、追剧、下载与共享场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格更划算，订阅周期按使用计划自由切换。",
+          "AI_FEATURE_TITLE_1": "按设备数匹配",
+          "AI_FEATURE_TITLE_2": "按流量定档",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "选定套餐、确认设备适配、依客户端文档完成订阅配置，三步即可用起来。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "维尼云提供多档海外加速套餐，覆盖个人多设备、流媒体解锁与游戏加速等场景，月付年付灵活选择，订阅导入主流客户端即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备数",
+          "AI_HIGHLIGHT_2": "月付年付按需切换",
+          "AI_HIGHLIGHT_3": "订阅导入主流客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别仅需 ¥150、¥350、¥850，可按设备与流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配情况，按客户端文档核对订阅导入要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按文档完成配置，节点列表更新后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "维尼云套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "820c7f9d8234504ec911ebcba51413ed9b0263d832be00b9a2662e005661d37b",
+    "sitemap.xml": "841aa88e4456f3b31ee5473eb45b6b9cbd36cb7c0ec0bc275488027b9d928cb1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fd74ab169da709dfe82b34153ac7b954d6c04307ea01b6ea9948d778adc95e90"
+}
